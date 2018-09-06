@@ -1,12 +1,17 @@
 body{
-    background-color: cadetblue
-}
-h1{
+    background-color: #0F0F0F;
     color: white;
     font-family: 'Roboto', sans-serif;
+}
+h1{
     font-size: 25px;
 }
 img{
-    width: 75vw;
+    max-width: 99vw;
     height: auto;
+    display: block;
+    margin: auto;
+}
+p{
+    font-size: 14px;
 }
